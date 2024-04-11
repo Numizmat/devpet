@@ -1,0 +1,1 @@
+## DevOps Django Pet project
